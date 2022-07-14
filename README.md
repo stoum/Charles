@@ -16,7 +16,7 @@ EndPoint: /user_info_3
 Task:
 Сделать и в Rewrite, и в BreakPoint - Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
 
-3.Ex_3_Charles Settings.xml:
+3. Ex_3_Charles Settings.xml:
 
 Method: GET
 EndPoint: /object_info_1
