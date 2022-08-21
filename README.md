@@ -23,3 +23,5 @@ EndPoint: /object_info_1
 
 Task:
 Сделать и в Rewrite, и в BreakPoint - Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
+
+In progress...
